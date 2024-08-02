@@ -1,16 +1,18 @@
-# f
+# Diet Recommendation App
 
-A new Flutter project.
+A Flutter application that provides personalized diet recommendations.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Personalized meal recommendations
+- Daily meal planning
+- Category selection (e.g., salad, cake, pie)
+- Recommendations for popular diets
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="assets/screenshots/s1.jpg" alt="Screenshot 1" width="230"/>  
+  <img src="assets/screenshots/s2.jpg" alt="Screenshot 1" width="230"/>  
+  <img src="assets/screenshots/s3.jpg" alt="Screenshot 1" width="230"/>
+</p>
